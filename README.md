@@ -1,5 +1,7 @@
 # react-qiniu
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-qiniu-plus.svg)](https://greenkeeper.io/)
+
 React Component to upload file to [Qiniu](http://www.qiniu.com/)
 
 See Demo: http://lenage.com/react-qiniu/
